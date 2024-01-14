@@ -3,3 +3,5 @@
 [node name="Kamil" type="Node2D"]
 
 [node name="ślimaK" type="Node" parent="."]
+
+[node name="Window" type="Window" parent="ślimaK"]
