@@ -1,3 +1,5 @@
 [gd_scene format=3 uid="uid://clnggb6d0xglw"]
 
 [node name="Kamil" type="Node2D"]
+
+[node name="ślimaK" type="Node" parent="."]
